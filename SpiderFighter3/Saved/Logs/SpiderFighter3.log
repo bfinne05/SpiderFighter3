@@ -1463,3 +1463,265 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.03-01.16.58:773][210]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/Components/ParkourMovement_Auto4
 [2023.10.03-01.16.58:773][210]LogSavePackage: Moving '../../../../../../Users/Brandon Finney/Documents/GitHub/SpiderFighter3/SpiderFighter3/Saved/ParkourMovement_Auto446D22F96450B7E4E2141C08BB1CD983D.tmp' to '../../../../../../Users/Brandon Finney/Documents/GitHub/SpiderFighter3/SpiderFighter3/Saved/Autosaves/Game/FirstPerson/Blueprints/Components/ParkourMovement_Auto4.uasset'
 [2023.10.03-01.16.58:773][210]LogFileHelpers: Auto-saving content packages took 0.034
+[2023.10.03-01.21.11:687][891]BlueprintLog: New page: Compile ParkourMovement
+[2023.10.03-01.21.11:737][891]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.10.03-01.22.05:687][594]BlueprintLog: New page: Compile ParkourMovement
+[2023.10.03-01.22.05:732][594]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.10.03-01.22.14:320][463]BlueprintLog: New page: Compile ParkourMovement
+[2023.10.03-01.22.14:367][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.10.03-01.22.35:298][630]BlueprintLog: New page: Compile ParkourMovement
+[2023.10.03-01.22.35:343][630]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.10.03-01.23.15:142][909]LogDerivedDataCache: C:/Users/Brandon Finney/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.113 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2169 files in 3256 folders with total size 476 MiB.
+[2023.10.03-01.24.04:345][868]BlueprintLog: New page: Compile ParkourMovement
+[2023.10.03-01.24.04:398][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.10.03-01.24.52:265][596]BlueprintLog: New page: Compile ParkourMovement
+[2023.10.03-01.24.52:318][596]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.10.03-01.26.58:932][262]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.10.03-01.26.58:937][262]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.039
+[2023.10.03-01.26.58:937][262]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2023.10.03-01.26.58:947][262]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2023.10.03-01.26.58:947][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2023.10.03-01.26.58:967][262]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto5
+[2023.10.03-01.26.58:967][262]LogSavePackage: Moving '../../../../../../Users/Brandon Finney/Documents/GitHub/SpiderFighter3/SpiderFighter3/Saved/BP_FirstPersonCharacter_Auto5CABCF03E4671A42C476D85A8AC039316.tmp' to '../../../../../../Users/Brandon Finney/Documents/GitHub/SpiderFighter3/SpiderFighter3/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto5.uasset'
+[2023.10.03-01.26.58:969][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/Components/ParkourMovement] ([2] browsable assets)...
+[2023.10.03-01.26.58:969][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/Components/ParkourMovement]
+[2023.10.03-01.26.58:998][262]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/Components/ParkourMovement_Auto5
+[2023.10.03-01.26.58:998][262]LogSavePackage: Moving '../../../../../../Users/Brandon Finney/Documents/GitHub/SpiderFighter3/SpiderFighter3/Saved/ParkourMovement_Auto5D76589E44E79EB2BE9FDD5A6E1512569.tmp' to '../../../../../../Users/Brandon Finney/Documents/GitHub/SpiderFighter3/SpiderFighter3/Saved/Autosaves/Game/FirstPerson/Blueprints/Components/ParkourMovement_Auto5.uasset'
+[2023.10.03-01.26.58:999][262]LogFileHelpers: Auto-saving content packages took 0.062
+[2023.10.03-01.28.53:313][149]BlueprintLog: New page: Compile ParkourMovement
+[2023.10.03-01.28.53:360][149]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.10.03-01.29.17:434][786]LogEditorTransaction: Undo Add Node
+[2023.10.03-01.31.00:589][153]BlueprintLog: New page: Compile ParkourMovement
+[2023.10.03-01.31.00:639][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.10.03-01.31.52:629][783]BlueprintLog: New page: Compile ParkourMovement
+[2023.10.03-01.31.52:678][783]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.10.03-01.32.44:450][248]BlueprintLog: New page: Compile ParkourMovement
+[2023.10.03-01.32.44:504][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.10.03-01.33.36:595][ 88]BlueprintLog: New page: Compile ParkourMovement
+[2023.10.03-01.33.36:646][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.10.03-01.36.59:155][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.10.03-01.36.59:157][ 73]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.025
+[2023.10.03-01.36.59:158][ 73]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2023.10.03-01.36.59:166][ 73]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2023.10.03-01.36.59:166][ 73]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2023.10.03-01.36.59:177][ 73]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto6
+[2023.10.03-01.36.59:177][ 73]LogSavePackage: Moving '../../../../../../Users/Brandon Finney/Documents/GitHub/SpiderFighter3/SpiderFighter3/Saved/BP_FirstPersonCharacter_Auto69466C5B84A9DAFBBF1A1D5B27A1C7E0A.tmp' to '../../../../../../Users/Brandon Finney/Documents/GitHub/SpiderFighter3/SpiderFighter3/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto6.uasset'
+[2023.10.03-01.36.59:178][ 73]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/Components/ParkourMovement] ([2] browsable assets)...
+[2023.10.03-01.36.59:178][ 73]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/Components/ParkourMovement]
+[2023.10.03-01.36.59:196][ 73]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/Components/ParkourMovement_Auto6
+[2023.10.03-01.36.59:197][ 73]LogSavePackage: Moving '../../../../../../Users/Brandon Finney/Documents/GitHub/SpiderFighter3/SpiderFighter3/Saved/ParkourMovement_Auto6A714409B4CFF81F2C331D0ABA3AEDB3B.tmp' to '../../../../../../Users/Brandon Finney/Documents/GitHub/SpiderFighter3/SpiderFighter3/Saved/Autosaves/Game/FirstPerson/Blueprints/Components/ParkourMovement_Auto6.uasset'
+[2023.10.03-01.36.59:197][ 73]LogFileHelpers: Auto-saving content packages took 0.040
+[2023.10.03-01.38.10:693][140]BlueprintLog: New page: Compile ParkourMovement
+[2023.10.03-01.38.10:744][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.10.03-01.40.57:583][987]BlueprintLog: New page: Compile ParkourMovement
+[2023.10.03-01.40.57:638][987]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.10.03-01.42.03:232][571]BlueprintLog: New page: Compile ParkourMovement
+[2023.10.03-01.42.03:285][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.10.03-01.42.32:864][288]BlueprintLog: New page: Compile ParkourMovement
+[2023.10.03-01.42.32:916][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.10.03-01.42.56:822][576]BlueprintLog: New page: Compile ParkourMovement
+[2023.10.03-01.42.56:873][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.10.03-01.44.05:756][466]BlueprintLog: New page: Compile ParkourMovement
+[2023.10.03-01.44.05:812][466]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.10.03-01.46.09:514][496]BlueprintLog: New page: Compile ParkourMovement
+[2023.10.03-01.46.09:571][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.10.03-01.47.12:487][107]BlueprintLog: New page: Compile ParkourMovement
+[2023.10.03-01.47.12:539][107]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.10.03-01.48.11:669][480]BlueprintLog: New page: Compile ParkourMovement
+[2023.10.03-01.48.11:721][480]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.10.03-01.48.53:946][911]BlueprintLog: New page: Compile ParkourMovement
+[2023.10.03-01.48.54:001][911]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.10.03-01.49.21:475][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.10.03-01.49.21:478][442]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.025
+[2023.10.03-01.49.21:478][442]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2023.10.03-01.49.21:485][442]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2023.10.03-01.49.21:485][442]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2023.10.03-01.49.21:495][442]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto7
+[2023.10.03-01.49.21:496][442]LogSavePackage: Moving '../../../../../../Users/Brandon Finney/Documents/GitHub/SpiderFighter3/SpiderFighter3/Saved/BP_FirstPersonCharacter_Auto77B34CA42497C723C16D4419351F23EDE.tmp' to '../../../../../../Users/Brandon Finney/Documents/GitHub/SpiderFighter3/SpiderFighter3/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto7.uasset'
+[2023.10.03-01.49.21:496][442]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/Components/ParkourMovement] ([2] browsable assets)...
+[2023.10.03-01.49.21:497][442]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/Components/ParkourMovement]
+[2023.10.03-01.49.21:517][442]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/Components/ParkourMovement_Auto7
+[2023.10.03-01.49.21:517][442]LogSavePackage: Moving '../../../../../../Users/Brandon Finney/Documents/GitHub/SpiderFighter3/SpiderFighter3/Saved/ParkourMovement_Auto703631E064F19DD85CBFA418D297D62CF.tmp' to '../../../../../../Users/Brandon Finney/Documents/GitHub/SpiderFighter3/SpiderFighter3/Saved/Autosaves/Game/FirstPerson/Blueprints/Components/ParkourMovement_Auto7.uasset'
+[2023.10.03-01.49.21:518][442]LogFileHelpers: Auto-saving content packages took 0.040
+[2023.10.03-01.52.38:832][ 41]BlueprintLog: New page: Compile ParkourMovement
+[2023.10.03-01.52.38:886][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.10.03-02.00.47:297][301]BlueprintLog: New page: Compile ParkourMovement
+[2023.10.03-02.00.47:358][301]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.10.03-02.01.54:841][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.10.03-02.01.54:843][ 48]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.023
+[2023.10.03-02.01.54:843][ 48]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2023.10.03-02.01.54:850][ 48]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2023.10.03-02.01.54:850][ 48]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2023.10.03-02.01.54:861][ 48]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto8
+[2023.10.03-02.01.54:861][ 48]LogSavePackage: Moving '../../../../../../Users/Brandon Finney/Documents/GitHub/SpiderFighter3/SpiderFighter3/Saved/BP_FirstPersonCharacter_Auto88F5CE5EE44708CBEF49B46873D039711.tmp' to '../../../../../../Users/Brandon Finney/Documents/GitHub/SpiderFighter3/SpiderFighter3/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto8.uasset'
+[2023.10.03-02.01.54:862][ 48]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/Components/ParkourMovement] ([2] browsable assets)...
+[2023.10.03-02.01.54:862][ 48]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/Components/ParkourMovement]
+[2023.10.03-02.01.54:887][ 48]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/Components/ParkourMovement_Auto8
+[2023.10.03-02.01.54:887][ 48]LogSavePackage: Moving '../../../../../../Users/Brandon Finney/Documents/GitHub/SpiderFighter3/SpiderFighter3/Saved/ParkourMovement_Auto87AD1DDEB42080FBF8F89E7BF7D02CC7B.tmp' to '../../../../../../Users/Brandon Finney/Documents/GitHub/SpiderFighter3/SpiderFighter3/Saved/Autosaves/Game/FirstPerson/Blueprints/Components/ParkourMovement_Auto8.uasset'
+[2023.10.03-02.01.54:887][ 48]LogFileHelpers: Auto-saving content packages took 0.045
+[2023.10.03-02.02.02:408][498]BlueprintLog: New page: Compile ParkourMovement
+[2023.10.03-02.02.02:461][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.10.03-02.02.21:687][556]BlueprintLog: New page: Compile ParkourMovement
+[2023.10.03-02.02.21:744][556]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.10.03-02.05.03:601][113]BlueprintLog: New page: Compile ParkourMovement
+[2023.10.03-02.05.03:665][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.10.03-02.05.17:054][889]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.03-02.05.17:058][889]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.10.03-02.05.17:061][889]LogWorldPartition: Display: GenerateStreaming started...
+[2023.10.03-02.05.17:061][889]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.10.03-02.05.17:061][889]LogWorldPartition: Display: GetPartitionedActors took 12 us
+[2023.10.03-02.05.17:061][889]LogWorldPartition: Display: GenerateStreaming took 166 us
+[2023.10.03-02.05.17:062][889]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.03-02.05.17:063][889]PIE: New page: PIE session: FirstPersonMap (Oct 2, 2023, 2:05:17 PM)
+[2023.10.03-02.05.17:066][889]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.10.03-02.05.17:066][889]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.10.03-02.05.17:066][889]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.10.03-02.05.17:071][889]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004411s)
+[2023.10.03-02.05.17:071][889]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004451s)
+[2023.10.03-02.05.17:071][889]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.03-02.05.17:071][889]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.03-02.05.17:072][889]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.10.03-02.05.17:072][889]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.10.03-02.05.17:072][889]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.03-02.05.17:072][889]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.10.03-02.05.17:073][889]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.10.03-02.05.17:073][889]LogWorldPartition: Display: WorldPartition initialize took 971 us (total: 673 ms)
+[2023.10.03-02.05.17:073][889]LogPlayLevel: PIE: World Init took: (0.002092s)
+[2023.10.03-02.05.17:094][889]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.10.03-02.05.17:096][889]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.10.03-02.05.17:096][889]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.03-02.05.17:096][889]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.03-02.05.17:096][889]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.03-02.05.17:096][889]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.03-02.05.17:096][889]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.03-02.05.17:096][889]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.03-02.05.17:096][889]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.03-02.05.17:096][889]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.03-02.05.17:098][889]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.03-02.05.17:098][889]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.03-02.05.17:098][889]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.03-02.05.17:099][889]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.03-02.05.17:140][889]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.10.03-02.05.17:140][889]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.03-02.05.17:140][889]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.03-02.05.17:140][889]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.03-02.05.17:142][889]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.10.03-02.05.17:142][889]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.10.03-02.05.17:143][889]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.10.03-02.05.17:143][889]LogInit: FAudioDevice initialized with ID 2.
+[2023.10.03-02.05.17:143][889]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.10.03-02.05.17:143][889]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonMap'.
+[2023.10.03-02.05.17:143][889]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2023.10.03-02.05.17:146][889]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.10.03-02.05.17:148][889]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2023.10.02-20.05.17
+[2023.10.03-02.05.17:149][889]LogWorld: Bringing up level for play took: 0.002237
+[2023.10.03-02.05.17:150][889]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2023.10.03-02.05.17:161][889]PIE: Server logged in
+[2023.10.03-02.05.17:162][889]PIE: Play in editor total start time 0.104 seconds.
+[2023.10.03-02.06.59:196][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.03-02.06.59:197][  7]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.10.03-02.06.59:198][  7]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.03-02.06.59:198][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.03-02.06.59:198][  7]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.10.03-02.06.59:202][  7]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.03-02.06.59:205][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.03-02.06.59:226][  7]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.03-02.06.59:227][  7]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2023.10.03-02.06.59:227][  7]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.10.03-02.06.59:228][  7]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.10.03-02.06.59:232][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.03-02.06.59:235][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.10.03-02.06.59:285][  9]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2023.10.03-02.07.42:462][485]BlueprintLog: New page: Compile ParkourMovement
+[2023.10.03-02.07.42:550][485]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.10.03-02.12.46:827][972]BlueprintLog: New page: Compile ParkourMovement
+[2023.10.03-02.12.46:883][972]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.10.03-02.14.19:429][996]BlueprintLog: New page: Compile ParkourMovement
+[2023.10.03-02.14.19:487][996]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.10.03-02.14.53:184][750]BlueprintLog: New page: Compile ParkourMovement
+[2023.10.03-02.14.53:239][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.10.03-02.15.24:732][560]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.10.03-02.15.24:735][560]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.026
+[2023.10.03-02.15.24:736][560]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2023.10.03-02.15.24:743][560]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2023.10.03-02.15.24:743][560]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2023.10.03-02.15.24:753][560]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto9
+[2023.10.03-02.15.24:754][560]LogSavePackage: Moving '../../../../../../Users/Brandon Finney/Documents/GitHub/SpiderFighter3/SpiderFighter3/Saved/BP_FirstPersonCharacter_Auto917AE2684436B4B0814507FA0E085E64B.tmp' to '../../../../../../Users/Brandon Finney/Documents/GitHub/SpiderFighter3/SpiderFighter3/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto9.uasset'
+[2023.10.03-02.15.24:754][560]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/Components/ParkourMovement] ([2] browsable assets)...
+[2023.10.03-02.15.24:754][560]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/Components/ParkourMovement]
+[2023.10.03-02.15.24:781][560]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/Components/ParkourMovement_Auto9
+[2023.10.03-02.15.24:781][560]LogSavePackage: Moving '../../../../../../Users/Brandon Finney/Documents/GitHub/SpiderFighter3/SpiderFighter3/Saved/ParkourMovement_Auto9C93472684662429EB4B600B0CE1033B0.tmp' to '../../../../../../Users/Brandon Finney/Documents/GitHub/SpiderFighter3/SpiderFighter3/Saved/Autosaves/Game/FirstPerson/Blueprints/Components/ParkourMovement_Auto9.uasset'
+[2023.10.03-02.15.24:782][560]LogFileHelpers: Auto-saving content packages took 0.047
+[2023.10.03-02.16.05:051][810]BlueprintLog: New page: Compile ParkourMovement
+[2023.10.03-02.16.05:106][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.10.03-02.16.49:509][236]BlueprintLog: New page: Compile ParkourMovement
+[2023.10.03-02.16.49:577][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.10.03-02.18.21:770][298]BlueprintLog: New page: Compile ParkourMovement
+[2023.10.03-02.18.21:825][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.10.03-02.18.39:877][363]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.03-02.18.39:882][363]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.10.03-02.18.39:884][363]LogWorldPartition: Display: GenerateStreaming started...
+[2023.10.03-02.18.39:884][363]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.10.03-02.18.39:884][363]LogWorldPartition: Display: GetPartitionedActors took 17 us (total: 30 us)
+[2023.10.03-02.18.39:884][363]LogWorldPartition: Display: GenerateStreaming took 171 us (total: 338 us)
+[2023.10.03-02.18.39:884][363]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.03-02.18.39:884][363]PIE: New page: PIE session: FirstPersonMap (Oct 2, 2023, 2:18:39 PM)
+[2023.10.03-02.18.39:884][363]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.10.03-02.18.39:889][363]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004832s)
+[2023.10.03-02.18.39:889][363]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004866s)
+[2023.10.03-02.18.39:889][363]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.03-02.18.39:889][363]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.03-02.18.39:890][363]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.10.03-02.18.39:890][363]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.10.03-02.18.39:890][363]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.03-02.18.39:890][363]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.10.03-02.18.39:891][363]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.10.03-02.18.39:891][363]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 675 ms)
+[2023.10.03-02.18.39:892][363]LogPlayLevel: PIE: World Init took: (0.002332s)
+[2023.10.03-02.18.39:916][363]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.10.03-02.18.39:920][363]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.10.03-02.18.39:920][363]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.03-02.18.39:920][363]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.03-02.18.39:920][363]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.03-02.18.39:920][363]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.03-02.18.39:920][363]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.03-02.18.39:920][363]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.03-02.18.39:920][363]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.03-02.18.39:920][363]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.03-02.18.39:921][363]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.03-02.18.39:921][363]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.03-02.18.39:921][363]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.03-02.18.39:924][363]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.03-02.18.39:963][363]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.10.03-02.18.39:963][363]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.03-02.18.39:963][363]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.03-02.18.39:963][363]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.03-02.18.39:964][363]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.10.03-02.18.39:964][363]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.10.03-02.18.39:966][363]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.10.03-02.18.39:966][363]LogInit: FAudioDevice initialized with ID 3.
+[2023.10.03-02.18.39:966][363]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.10.03-02.18.39:966][363]LogAudio: Display: Audio Device (ID: 3) registered with world 'FirstPersonMap'.
+[2023.10.03-02.18.39:966][363]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2023.10.03-02.18.39:969][363]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.10.03-02.18.39:971][363]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2023.10.02-20.18.39
+[2023.10.03-02.18.39:971][363]LogWorld: Bringing up level for play took: 0.002076
+[2023.10.03-02.18.39:973][363]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2023.10.03-02.18.39:975][363]PIE: Server logged in
+[2023.10.03-02.18.39:976][363]PIE: Play in editor total start time 0.093 seconds.
+[2023.10.03-02.18.48:756][881]LogScript: Warning: Script Msg: ParkourMovement ResetWallRunSupression SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2023.10.03-02.18.48:756][881]LogScript: Warning: Script Msg called by: ParkourMovement_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.BP_FirstPersonCharacter_C_0.ParkourMovement
+[2023.10.03-02.19.16:966][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.03-02.19.16:966][571]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.10.03-02.19.16:967][571]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.03-02.19.16:967][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.03-02.19.16:967][571]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.10.03-02.19.16:971][571]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.03-02.19.16:974][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.03-02.19.16:995][571]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.03-02.19.16:995][571]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2023.10.03-02.19.16:995][571]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.10.03-02.19.16:997][571]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.10.03-02.19.17:001][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.03-02.19.17:003][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.10.03-02.19.17:037][572]LogPlayLevel: Display: Destroying online subsystem :Context_8
