@@ -7,7 +7,8 @@
 			"files": [
 				"C:/Users/Brandon Finney/Documents/GitHub/SpiderFighter3/SpiderFighter3/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
 				"C:/Users/Brandon Finney/Documents/GitHub/SpiderFighter3/SpiderFighter3/Content/FirstPerson/Blueprints/Components/BP_ParkourMovement.uasset",
-				"C:/Users/Brandon Finney/Documents/GitHub/SpiderFighter3/SpiderFighter3/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
+				"C:/Users/Brandon Finney/Documents/GitHub/SpiderFighter3/SpiderFighter3/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Brandon Finney/Documents/GitHub/SpiderFighter3/SpiderFighter3/Content/FirstPerson/Blueprints/Components/ParkourMovement.uasset"
 			]
 		}
 	]
