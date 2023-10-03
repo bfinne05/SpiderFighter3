@@ -6,9 +6,12 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/Brandon Finney/Documents/GitHub/SpiderFighter3/SpiderFighter3/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
-				"C:/Users/Brandon Finney/Documents/GitHub/SpiderFighter3/SpiderFighter3/Content/FirstPerson/Blueprints/Components/BP_ParkourMovement.uasset",
 				"C:/Users/Brandon Finney/Documents/GitHub/SpiderFighter3/SpiderFighter3/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"C:/Users/Brandon Finney/Documents/GitHub/SpiderFighter3/SpiderFighter3/Content/FirstPerson/Blueprints/Components/ParkourMovement.uasset"
+				"C:/Users/Brandon Finney/Documents/GitHub/SpiderFighter3/SpiderFighter3/Content/FirstPerson/Blueprints/Components/ParkourMovement.uasset",
+				"C:/Users/Brandon Finney/Documents/GitHub/SpiderFighter3/SpiderFighter3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/YA/KL6RTH8MMIDYSDIG7Z4BC5.uasset",
+				"C:/Users/Brandon Finney/Documents/GitHub/SpiderFighter3/SpiderFighter3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/UD/P9DDM71M3LG3610TOB7F5X.uasset",
+				"C:/Users/Brandon Finney/Documents/GitHub/SpiderFighter3/SpiderFighter3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/50/GTHMRBXAQ5AH83J2F46TCV.uasset",
+				"C:/Users/Brandon Finney/Documents/GitHub/SpiderFighter3/SpiderFighter3/Content/FirstPerson/Blueprints/Components/BP_ParkourMovement.uasset"
 			]
 		}
 	]
